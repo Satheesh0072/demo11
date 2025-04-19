@@ -1,0 +1,1 @@
+streamlit>=1.30.0matplotlib>=3.8pandas>=2.2CoolProp>=6.4streamlitpandasopenpyxlstreamlit-chatstreamlit==1.33.0pandas==2.2.2scikit-learn==1.4.2numpy==1.26.4streamlit==1.33.0pandas==2.2.2SpeechRecognition==3.10.0gTTS==2.5.1pyaudio==0.2.13
